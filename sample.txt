@@ -2,3 +2,5 @@ Conflict Test
 Edit what YooHwan Commited
 "Hello"
 "Add new word"
+
+"I'm in local"
